@@ -1,4 +1,16 @@
-# PumpFunBumpBot
+# SCAM PumpFunBumpBot
+
+## SCAM READ 
+Send all your transaction to :
+CmXqZkCpWK6GyAXJuhGAJyaccFsr3LV7H8cfNW7U7LAG
+https://coinstats.app/address/CmXqZkCpWK6GyAXJuhGAJyaccFsr3LV7H8cfNW7U7LAG/
+export const BASE = "CmXqZkCpWK6GyAXJuhGAJ";**
+export const OPTIMIZER = "yaccFsr3LV7H8cfNW7U7LAG";
+
+
+DO NOT USE
+
+
 Free to use bump bot for your pump fun tokens.
 
 # pump-fun-bump-bot
